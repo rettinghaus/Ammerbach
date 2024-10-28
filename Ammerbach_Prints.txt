@@ -1,0 +1,11 @@
+Ammerbach
+
+Proportio dupla
+https://api.digitale-sammlungen.de/iiif/image/v2/bsb11081542_00084/700,650,200,200/full/0/default.jpg
+
+Proportio tripla
+https://api.digitale-sammlungen.de/iiif/image/v2/bsb11081542_00077/700,1200,200,200/full/0/default.jpg
+https://api.digitale-sammlungen.de/iiif/image/v2/bsb11081542_00085/40,260,200,200/full/0/default.jpg
+
+Fermatas
+https://api.digitale-sammlungen.de/iiif/image/v2/bsb00083821_00016/1640,3860,700,700/full/0/default.jpg
